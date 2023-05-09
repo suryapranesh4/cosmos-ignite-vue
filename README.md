@@ -2,12 +2,6 @@
 
 The Cosmos Insurance Application allows the clients to purchase insurance using one cryptocurrency and the insurance provider performs claims settlements using a different cryptocurrency. This is possible by harnessing the ability of Cosmos Blockchain to enable cross-platform transactions between different blockchains.
 
-# Contributors
-
-Surya Pranesh Krishnan - 101442686<br/>
-Shantanu Ail - 101413427<br/>
-Vishnu Sankar - 101440532
-
 # Introduction
 
 Insurance is a vital aspect of modern society, protecting individuals and businesses against financial loss. However, traditional insurance solutions are often expensive, slow, and difficult to access. Blockchain technology has emerged as a potential solution to these challenges, offering a decentralized, transparent, and secure platform for managing insurance policies and claims.
